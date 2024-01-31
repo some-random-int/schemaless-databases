@@ -1,0 +1,434 @@
+[
+  {
+    "itemType": "Office Supplies",
+    "unitPrice": 664.23,
+    "unitCost": 585.79,
+    "_key": "ABANGOFF0001GE"
+  },
+  {
+    "itemType": "Vegetables",
+    "unitPrice": 250.48,
+    "unitCost": 182.08,
+    "_key": "MYEMEVEG0050EN"
+  },
+  {
+    "itemType": "Baby Food",
+    "unitPrice": 256.84,
+    "unitCost": 154.97,
+    "_key": "MPAKIBAB0042UN"
+  },
+  {
+    "itemType": "Cosmetics",
+    "unitPrice": 242.36,
+    "unitCost": 178.69,
+    "_key": "MAFGHCOS0028MT"
+  },
+  {
+    "itemType": "Office Supplies",
+    "unitPrice": 213.85,
+    "unitCost": 156.42,
+    "_key": "MUNITOFF0049EN"
+  },
+  {
+    "itemType": "Personal Care",
+    "unitPrice": 71.11,
+    "unitCost": 52.14,
+    "_key": "ATAJIPER0023UE"
+  },
+  {
+    "itemType": "Vegetables",
+    "unitPrice": 135.57,
+    "unitCost": 85.47,
+    "_key": "ABHUTVEG0002GE"
+  },
+  {
+    "itemType": "Meat",
+    "unitPrice": 213.2,
+    "unitCost": 158.69,
+    "_key": "ECYPRMEA0060EN"
+  },
+  {
+    "itemType": "Snacks",
+    "unitPrice": 256.5,
+    "unitCost": 145.67,
+    "_key": "MSAUDSNA0044UN"
+  },
+  {
+    "itemType": "Vegetables",
+    "unitPrice": 216.09,
+    "unitCost": 179.19,
+    "_key": "MLEBAVEG0038UN"
+  },
+  {
+    "itemType": "Household",
+    "unitPrice": 158.68,
+    "unitCost": 163.59,
+    "_key": "MSYRIHOU0046UN"
+  },
+  {
+    "itemType": "Beverages",
+    "unitPrice": 51.25,
+    "unitCost": 25.75,
+    "_key": "APHILBEV0019UE"
+  },
+  {
+    "itemType": "Snacks",
+    "unitPrice": 169.36,
+    "unitCost": 87.7,
+    "_key": "AJAPASNA0008GE"
+  },
+  {
+    "itemType": "Office Supplies",
+    "unitPrice": 696.79,
+    "unitCost": 493.46,
+    "_key": "ALAOSOFF0013UE"
+  },
+  {
+    "itemType": "Snacks",
+    "unitPrice": 251.34,
+    "unitCost": 173.93,
+    "_key": "MEGYPSNA0032MT"
+  },
+  {
+    "itemType": "Office Supplies",
+    "unitPrice": 145.44,
+    "unitCost": 150.95,
+    "_key": "ECZECOFF0061ES"
+  },
+  {
+    "itemType": "Meat",
+    "unitPrice": 493.61,
+    "unitCost": 328.22,
+    "_key": "AKYRGMEA0012GE"
+  },
+  {
+    "itemType": "Personal Care",
+    "unitPrice": 156.05,
+    "unitCost": 160.47,
+    "_key": "ECROAPER0059EN"
+  },
+  {
+    "itemType": "Office Supplies",
+    "unitPrice": 266.15,
+    "unitCost": 182.8,
+    "_key": "MKUWAOFF0037UN"
+  },
+  {
+    "itemType": "Cosmetics",
+    "unitPrice": 419.71,
+    "unitCost": 229.1,
+    "_key": "AMONGCOS0016UE"
+  },
+  {
+    "itemType": "Cosmetics",
+    "unitPrice": 154.75,
+    "unitCost": 161.51,
+    "_key": "EFINLCOS0064ES"
+  },
+  {
+    "itemType": "Snacks",
+    "unitPrice": 183.1,
+    "unitCost": 91.59,
+    "_key": "ASINGSNA0020UE"
+  },
+  {
+    "itemType": "Fruits",
+    "unitPrice": 284.19,
+    "unitCost": 172.75,
+    "_key": "AVIETFRU0027MT"
+  },
+  {
+    "itemType": "Clothes",
+    "unitPrice": 211.43,
+    "unitCost": 147.81,
+    "_key": "MSOMACLO0045UN"
+  },
+  {
+    "itemType": "Beverages",
+    "unitPrice": 224.71,
+    "unitCost": 165.54,
+    "_key": "EBELABEV0055EN"
+  },
+  {
+    "itemType": "Cereal",
+    "unitPrice": 274.76,
+    "unitCost": 150.38,
+    "_key": "MALGECER0029MT"
+  },
+  {
+    "itemType": "Baby Food",
+    "unitPrice": 221.44,
+    "unitCost": 173.45,
+    "_key": "MAZERBAB0030MT"
+  },
+  {
+    "itemType": "Cereal",
+    "unitPrice": 201.57,
+    "unitCost": 158.63,
+    "_key": "MOMANCER0041UN"
+  },
+  {
+    "itemType": "Baby Food",
+    "unitPrice": 192.5,
+    "unitCost": 171.93,
+    "_key": "EGEORBAB0066ES"
+  },
+  {
+    "itemType": "Vegetables",
+    "unitPrice": 291.48,
+    "unitCost": 153.56,
+    "_key": "AUZBEVEG0026MT"
+  },
+  {
+    "itemType": "Clothes",
+    "unitPrice": 98.35,
+    "unitCost": 30.46,
+    "_key": "AKAZACLO0009GE"
+  },
+  {
+    "itemType": "Baby Food",
+    "unitPrice": 201.67,
+    "unitCost": 140.29,
+    "_key": "ANEPABAB0018UE"
+  },
+  {
+    "itemType": "Household",
+    "unitPrice": 641.54,
+    "unitCost": 472.39,
+    "_key": "ANORTHOU0010GE"
+  },
+  {
+    "itemType": "Clothes",
+    "unitPrice": 192.47,
+    "unitCost": 176.61,
+    "_key": "EHUNGCLO0069ES"
+  },
+  {
+    "itemType": "Clothes",
+    "unitPrice": 128.95,
+    "unitCost": 27.24,
+    "_key": "ASRI CLO0021UE"
+  },
+  {
+    "itemType": "Clothes",
+    "unitPrice": 244.5,
+    "unitCost": 179.9,
+    "_key": "MIRANCLO0033MT"
+  },
+  {
+    "itemType": "Household",
+    "unitPrice": 180.33,
+    "unitCost": 156.74,
+    "_key": "EICELHOU0070ES"
+  },
+  {
+    "itemType": "Meat",
+    "unitPrice": 232.52,
+    "unitCost": 156.21,
+    "_key": "MTURKMEA0048UN"
+  },
+  {
+    "itemType": "Cereal",
+    "unitPrice": 170.73,
+    "unitCost": 104.23,
+    "_key": "ACHINCER0005GE"
+  },
+  {
+    "itemType": "Cosmetics",
+    "unitPrice": 172.09,
+    "unitCost": 154.56,
+    "_key": "MMOROCOS0040UN"
+  },
+  {
+    "itemType": "Meat",
+    "unitPrice": 345.95,
+    "unitCost": 309.99,
+    "_key": "ATHAIMEA0024UE"
+  },
+  {
+    "itemType": "Meat",
+    "unitPrice": 220.55,
+    "unitCost": 176.55,
+    "_key": "EITALMEA0072ES"
+  },
+  {
+    "itemType": "Baby Food",
+    "unitPrice": 288.47,
+    "unitCost": 119.57,
+    "_key": "AINDIBAB0006GE"
+  },
+  {
+    "itemType": "Fruits",
+    "unitPrice": 183.5,
+    "unitCost": 160.75,
+    "_key": "EALBAFRU0051EN"
+  },
+  {
+    "itemType": "Personal Care",
+    "unitPrice": 242.75,
+    "unitCost": 151.6,
+    "_key": "MISRAPER0035MT"
+  },
+  {
+    "itemType": "Fruits",
+    "unitPrice": 8.77,
+    "unitCost": 5.47,
+    "_key": "ABRUNFRU0003GE"
+  },
+  {
+    "itemType": "Personal Care",
+    "unitPrice": 171.87,
+    "unitCost": 175.5,
+    "_key": "MTUNIPER0047UN"
+  },
+  {
+    "itemType": "Beverages",
+    "unitPrice": 49.82,
+    "unitCost": 24.16,
+    "_key": "AINDOBEV0007GE"
+  },
+  {
+    "itemType": "Fruits",
+    "unitPrice": 257.04,
+    "unitCost": 154.35,
+    "_key": "MLIBYFRU0039UN"
+  },
+  {
+    "itemType": "Clothes",
+    "unitPrice": 229.59,
+    "unitCost": 187.71,
+    "_key": "EBOSNCLO0057EN"
+  },
+  {
+    "itemType": "Cereal",
+    "unitPrice": 130.4,
+    "unitCost": 183.69,
+    "_key": "EFRANCER0065ES"
+  },
+  {
+    "itemType": "Beverages",
+    "unitPrice": 183.43,
+    "unitCost": 154.6,
+    "_key": "MBAHRBEV0031MT"
+  },
+  {
+    "itemType": "Cosmetics",
+    "unitPrice": 341.02,
+    "unitCost": 229.1,
+    "_key": "ACAMBCOS0004GE"
+  },
+  {
+    "itemType": "Meat",
+    "unitPrice": 238.37,
+    "unitCost": 171.02,
+    "_key": "MJORDMEA0036MT"
+  },
+  {
+    "itemType": "Baby Food",
+    "unitPrice": 230.92,
+    "unitCost": 181.07,
+    "_key": "EAUSTBAB0054EN"
+  },
+  {
+    "itemType": "Beverages",
+    "unitPrice": 217.53,
+    "unitCost": 149.36,
+    "_key": "MQATABEV0043UN"
+  },
+  {
+    "itemType": "Snacks",
+    "unitPrice": 143.8,
+    "unitCost": 169.71,
+    "_key": "EBELGSNA0056EN"
+  },
+  {
+    "itemType": "Vegetables",
+    "unitPrice": 212.19,
+    "unitCost": 178.99,
+    "_key": "EDENMVEG0062ES"
+  },
+  {
+    "itemType": "Household",
+    "unitPrice": 254.23,
+    "unitCost": 147.57,
+    "_key": "MIRAQHOU0034MT"
+  },
+  {
+    "itemType": "Cosmetics",
+    "unitPrice": 175.71,
+    "unitCost": 157.04,
+    "_key": "EANDOCOS0052EN"
+  },
+  {
+    "itemType": "Snacks",
+    "unitPrice": 169.59,
+    "unitCost": 170.37,
+    "_key": "EGREESNA0068ES"
+  },
+  {
+    "itemType": "Cereal",
+    "unitPrice": 217.45,
+    "unitCost": 165.11,
+    "_key": "EARMECER0053EN"
+  },
+  {
+    "itemType": "Vegetables",
+    "unitPrice": 146.36,
+    "unitCost": 70.93,
+    "_key": "AMALAVEG0014UE"
+  },
+  {
+    "itemType": "Fruits",
+    "unitPrice": 7.65,
+    "unitCost": 6.37,
+    "_key": "AMALDFRU0015UE"
+  },
+  {
+    "itemType": "Personal Care",
+    "unitPrice": 197.58,
+    "unitCost": 189.14,
+    "_key": "EIRELPER0071ES"
+  },
+  {
+    "itemType": "Office Supplies",
+    "unitPrice": 258.33,
+    "unitCost": 147.67,
+    "_key": "ATURKOFF0025MT"
+  },
+  {
+    "itemType": "Cereal",
+    "unitPrice": 158.39,
+    "unitCost": 106.57,
+    "_key": "AMYANCER0017UE"
+  },
+  {
+    "itemType": "Fruits",
+    "unitPrice": 200.95,
+    "unitCost": 173.25,
+    "_key": "EESTOFRU0063ES"
+  },
+  {
+    "itemType": "Personal Care",
+    "unitPrice": 96.44,
+    "unitCost": 43.07,
+    "_key": "ASOUTPER0011GE"
+  },
+  {
+    "itemType": "Beverages",
+    "unitPrice": 152.9,
+    "unitCost": 168.15,
+    "_key": "EGERMBEV0067ES"
+  },
+  {
+    "itemType": "Household",
+    "unitPrice": 170.86,
+    "unitCost": 172.13,
+    "_key": "EBULGHOU0058EN"
+  },
+  {
+    "itemType": "Household",
+    "unitPrice": 628.17,
+    "unitCost": 452.29,
+    "_key": "ATAIWHOU0022UE"
+  }
+]

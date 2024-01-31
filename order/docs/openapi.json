@@ -1,0 +1,291 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "order-domain",
+    "description": "This is a API-Documentation for the order-domain. It serves as a data-contract.",
+    "contact": {
+      "email": "frederick.behringer@smail.inf.h-brs.de"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5001"
+    }
+  ],
+  "tags": [
+    {
+      "name": "order",
+      "description": "Access orders"
+    }
+  ],
+  "paths": {
+    "/api/order": {
+      "post": {
+        "tags": [
+          "order"
+        ],
+        "summary": "Create a new order",
+        "description": "Create a new order",
+        "operationId": "createOrder",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Order"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "201": {
+            "description": "Created"
+          }
+        }
+      }
+    },
+    "/api/order/{id}": {
+      "post": {
+        "tags": [
+          "order"
+        ],
+        "summary": "Update an existing order",
+        "description": "Update an existing order",
+        "operationId": "updateOrder",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of order",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Order"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successfull operation"
+          },
+          "400": {
+            "description": "Invalid Id"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "order"
+        ],
+        "summary": "Get an existing order",
+        "description": "Get an existing order",
+        "operationId": "getOrder",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of order",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfull operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Order"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid Id"
+          }
+        }
+      }
+    },
+    "/api/orders": {
+      "get": {
+        "tags": [
+          "order"
+        ],
+        "summary": "analyses the orders",
+        "description": "analyses the orders",
+        "operationId": "analyseOrders",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "aggregator",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "country",
+                "itemID",
+                "supplierID",
+                "salesChannel",
+                "orderPriority"
+              ]
+            },
+            "description": "After what should be grouped"
+          },
+          {
+            "in": "query",
+            "name": "aggregated",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "unitsSold",
+                "totalRevenue",
+                "totalCost",
+                "totalProfit",
+                "orderDate",
+                "shipDate",
+                "processDays"
+              ]
+            },
+            "description": "Which parameter is subject of the aggregation operator"
+          },
+          {
+            "in": "query",
+            "name": "operator",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "COUNT",
+                "MIN",
+                "MAX",
+                "AVG",
+                "SUM"
+              ]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfull operation"
+          },
+          "400": {
+            "description": "Invalid parameters"
+          }
+        }
+      }
+    },
+    "/api/orders/{itemID}": {
+      "get": {
+        "tags": [
+          "order"
+        ],
+        "summary": "Get orders by itemID",
+        "description": "Get orders by itemID",
+        "operationId": "getOrdersByItemID",
+        "parameters": [
+          {
+            "name": "itemID",
+            "in": "path",
+            "description": "ID of referenced item from Supplier-Domain",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfull operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Order"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid Id"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Order": {
+        "type": "object",
+        "properties": {
+          "_key": {
+            "type": "string",
+            "example": "123890213"
+          },
+          "orderDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "shipDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "orderPriority": {
+            "type": "string",
+            "description": "Order priority",
+            "example": "L",
+            "enum": [
+              "H",
+              "M",
+              "L"
+            ]
+          },
+          "region": {
+            "type": "string"
+          },
+          "country": {
+            "type": "string"
+          },
+          "unitsSold": {
+            "type": "integer",
+            "format": "int64",
+            "example": 10
+          },
+          "totalCost": {
+            "type": "integer",
+            "format": "int64",
+            "example": 10
+          },
+          "totalRevenue": {
+            "type": "integer",
+            "format": "int64",
+            "example": 10
+          },
+          "totalProfit": {
+            "type": "integer",
+            "format": "int64",
+            "example": 10
+          },
+          "itemId": {
+            "type": "string"
+          },
+          "supplierId": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "_from": "Suppliers/6fe349a9c977c191",
+    "_to": "Items/ABANGOFF0001GE"
+  },
+  {
+    "_from": "Suppliers/01c0b843ba40f4f3",
+    "_to": "Items/MYEMEVEG0050EN"
+  },
+  {
+    "_from": "Suppliers/4f8e7d977e7aba56",
+    "_to": "Items/MPAKIBAB0042UN"
+  },
+  {
+    "_from": "Suppliers/6f3e392f79afac4e",
+    "_to": "Items/MAFGHCOS0028MT"
+  },
+  {
+    "_from": "Suppliers/045ad434f8db2227",
+    "_to": "Items/MUNITOFF0049EN"
+  },
+  {
+    "_from": "Suppliers/f4d4938cabbfe2c4",
+    "_to": "Items/ATAJIPER0023UE"
+  },
+  {
+    "_from": "Suppliers/2a3abea3253f0cbd",
+    "_to": "Items/ABHUTVEG0002GE"
+  },
+  {
+    "_from": "Suppliers/f90c833220465cae",
+    "_to": "Items/ECYPRMEA0060EN"
+  },
+  {
+    "_from": "Suppliers/9d3fec08de58925f",
+    "_to": "Items/MSAUDSNA0044UN"
+  },
+  {
+    "_from": "Suppliers/9d3fec08de58925f",
+    "_to": "Items/MLEBAVEG0038UN"
+  },
+  {
+    "_from": "Suppliers/8acad8c7137ed6e9",
+    "_to": "Items/MSYRIHOU0046UN"
+  },
+  {
+    "_from": "Suppliers/872e8a2b3a265a3d",
+    "_to": "Items/APHILBEV0019UE"
+  },
+  {
+    "_from": "Suppliers/2a3abea3253f0cbd",
+    "_to": "Items/AJAPASNA0008GE"
+  },
+  {
+    "_from": "Suppliers/2a74932e3a32b1e7",
+    "_to": "Items/ALAOSOFF0013UE"
+  },
+  {
+    "_from": "Suppliers/8d4580543e883090",
+    "_to": "Items/MEGYPSNA0032MT"
+  },
+  {
+    "_from": "Suppliers/fd3f692946051ed0",
+    "_to": "Items/ECZECOFF0061ES"
+  },
+  {
+    "_from": "Suppliers/5e55c877b31e223c",
+    "_to": "Items/AKYRGMEA0012GE"
+  },
+  {
+    "_from": "Suppliers/803a6cbda501776b",
+    "_to": "Items/ECROAPER0059EN"
+  },
+  {
+    "_from": "Suppliers/7860c392e5a16c9f",
+    "_to": "Items/MKUWAOFF0037UN"
+  },
+  {
+    "_from": "Suppliers/9d106ecc5379dc65",
+    "_to": "Items/AMONGCOS0016UE"
+  },
+  {
+    "_from": "Suppliers/6ec8ee075e54a308",
+    "_to": "Items/EFINLCOS0064ES"
+  },
+  {
+    "_from": "Suppliers/32a4347c1abad41f",
+    "_to": "Items/ASINGSNA0020UE"
+  },
+  {
+    "_from": "Suppliers/1ddc1bbf4345ff7b",
+    "_to": "Items/AVIETFRU0027MT"
+  },
+  {
+    "_from": "Suppliers/cb65f6ce81b1085b",
+    "_to": "Items/MSOMACLO0045UN"
+  },
+  {
+    "_from": "Suppliers/ce2e24b642bdf053",
+    "_to": "Items/EBELABEV0055EN"
+  },
+  {
+    "_from": "Suppliers/4496cbb2ee0184ff",
+    "_to": "Items/MALGECER0029MT"
+  },
+  {
+    "_from": "Suppliers/7d619593f1392a1f",
+    "_to": "Items/MAZERBAB0030MT"
+  },
+  {
+    "_from": "Suppliers/4040d3c81190f81d",
+    "_to": "Items/MOMANCER0041UN"
+  },
+  {
+    "_from": "Suppliers/20f1188db8dfface",
+    "_to": "Items/EGEORBAB0066ES"
+  },
+  {
+    "_from": "Suppliers/8d4580543e883090",
+    "_to": "Items/AUZBEVEG0026MT"
+  },
+  {
+    "_from": "Suppliers/ebf5e488926fd5b8",
+    "_to": "Items/AKAZACLO0009GE"
+  },
+  {
+    "_from": "Suppliers/2b87c306d71e9cfe",
+    "_to": "Items/ANEPABAB0018UE"
+  },
+  {
+    "_from": "Suppliers/65a2e97bdfe46cfa",
+    "_to": "Items/ANORTHOU0010GE"
+  },
+  {
+    "_from": "Suppliers/efe372d0307e90d5",
+    "_to": "Items/EHUNGCLO0069ES"
+  },
+  {
+    "_from": "Suppliers/180edf1397f37c18",
+    "_to": "Items/ASRIDCLO0021UE"
+  },
+  {
+    "_from": "Suppliers/27de1c5861577001",
+    "_to": "Items/MIRANCLO0033MT"
+  },
+  {
+    "_from": "Suppliers/f6ce2a06abd63c93",
+    "_to": "Items/EICELHOU0070ES"
+  },
+  {
+    "_from": "Suppliers/4623c807674d7dc7",
+    "_to": "Items/MTURKMEA0048UN"
+  },
+  {
+    "_from": "Suppliers/b6618262940511ac",
+    "_to": "Items/ACHINCER0005GE"
+  },
+  {
+    "_from": "Suppliers/8c575ccfe9e921c4",
+    "_to": "Items/MMOROCOS0040UN"
+  },
+  {
+    "_from": "Suppliers/647e89c3a05abc58",
+    "_to": "Items/ATHAIMEA0024UE"
+  },
+  {
+    "_from": "Suppliers/758b3288391fe74f",
+    "_to": "Items/EITALMEA0072ES"
+  },
+  {
+    "_from": "Suppliers/9f9202bb042fccbf",
+    "_to": "Items/AINDIBAB0006GE"
+  },
+  {
+    "_from": "Suppliers/8fa320e0b285624a",
+    "_to": "Items/EALBAFRU0051EN"
+  },
+  {
+    "_from": "Suppliers/2dc8650be4664ce0",
+    "_to": "Items/MISRAPER0035MT"
+  },
+  {
+    "_from": "Suppliers/5b134a26f167efb4",
+    "_to": "Items/ABRUNFRU0003GE"
+  },
+  {
+    "_from": "Suppliers/b6c9e1f9de2f26fb",
+    "_to": "Items/MTUNIPER0047UN"
+  },
+  {
+    "_from": "Suppliers/1970260cbe8ad868",
+    "_to": "Items/AINDOBEV0007GE"
+  },
+  {
+    "_from": "Suppliers/7cfab7456e76de74",
+    "_to": "Items/MLIBYFRU0039UN"
+  },
+  {
+    "_from": "Suppliers/966518ad19442dbf",
+    "_to": "Items/EBOSNCLO0057EN"
+  },
+  {
+    "_from": "Suppliers/745e858d48703985",
+    "_to": "Items/EFRANCER0065ES"
+  },
+  {
+    "_from": "Suppliers/3ceb411cbc3e242a",
+    "_to": "Items/MBAHRBEV0031MT"
+  },
+  {
+    "_from": "Suppliers/89edae1558586bd8",
+    "_to": "Items/ACAMBCOS0004GE"
+  },
+  {
+    "_from": "Suppliers/7e0fb2c48b56ebf3",
+    "_to": "Items/MJORDMEA0036MT"
+  },
+  {
+    "_from": "Suppliers/cf9f54fb0a908ac4",
+    "_to": "Items/EAUSTBAB0054EN"
+  },
+  {
+    "_from": "Suppliers/eec915fcc76d37ff",
+    "_to": "Items/MQATABEV0043UN"
+  },
+  {
+    "_from": "Suppliers/01c0b843ba40f4f3",
+    "_to": "Items/EBELGSNA0056EN"
+  },
+  {
+    "_from": "Suppliers/96ba86a8f5e9ecde",
+    "_to": "Items/EDENMVEG0062ES"
+  },
+  {
+    "_from": "Suppliers/2c28a75cea30a175",
+    "_to": "Items/MIRAQHOU0034MT"
+  },
+  {
+    "_from": "Suppliers/e274750231742bcf",
+    "_to": "Items/EANDOCOS0052EN"
+  },
+  {
+    "_from": "Suppliers/96ba86a8f5e9ecde",
+    "_to": "Items/EGREESNA0068ES"
+  },
+  {
+    "_from": "Suppliers/6580cda6e9381e21",
+    "_to": "Items/EARMECER0053EN"
+  },
+  {
+    "_from": "Suppliers/32a4347c1abad41f",
+    "_to": "Items/AMALAVEG0014UE"
+  },
+  {
+    "_from": "Suppliers/c7e0789e97cd2f19",
+    "_to": "Items/AMALDFRU0015UE"
+  },
+  {
+    "_from": "Suppliers/e6440fff42f3c284",
+    "_to": "Items/EIRELPER0071ES"
+  },
+  {
+    "_from": "Suppliers/6b3ce46ccf899afb",
+    "_to": "Items/ATURKOFF0025MT"
+  },
+  {
+    "_from": "Suppliers/e6ee58f1abc6a553",
+    "_to": "Items/AMYANCER0017UE"
+  },
+  {
+    "_from": "Suppliers/1d8ffad58f1e23cd",
+    "_to": "Items/EESTOFRU0063ES"
+  },
+  {
+    "_from": "Suppliers/0c63ee1e435e1b3c",
+    "_to": "Items/ASOUTPER0011GE"
+  },
+  {
+    "_from": "Suppliers/3bf9e358bee40dec",
+    "_to": "Items/EGERMBEV0067ES"
+  },
+  {
+    "_from": "Suppliers/a025dcd7b9fce880",
+    "_to": "Items/EBULGHOU0058EN"
+  },
+  {
+    "_from": "Suppliers/03ad5e47d87f1d48",
+    "_to": "Items/ATAIWHOU0022UE"
+  }
+]

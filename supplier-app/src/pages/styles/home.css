@@ -1,0 +1,86 @@
+h2 {
+    color: green;
+}
+
+.login-card {
+    width: 25rem;
+    margin: auto;
+    margin-top: 10rem;
+}
+.p-card-footer {
+    display: flex;
+    justify-content: end;
+}
+
+.p-button {
+    text-decoration: none;
+}
+
+
+#home-content-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+#chart-container {
+    height: 80vh;
+    width: 80vw; 
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+#chart-container .p-chart {
+    width: 100%; 
+    margin: auto;
+}
+#chart-controls {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+#data-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    height: 80vh;
+    margin: 0 4rem;
+}
+
+.toolbar-start {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-more-button {
+    display: block;
+    margin: auto;
+}
+
+#supplier-data-card {
+    width: 50%;
+}
+.supplier-data {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: .5rem;
+    margin-left: 2rem;
+}
+.supplier-data p, label {
+    margin: 0;
+}
+.supplier-data label {
+    font-weight: 500;
+}
+.supplier-data *:last-child {
+    margin-left: auto;
+}
+
+.p-datatable-wrapper {
+    overflow: visible !important;
+}

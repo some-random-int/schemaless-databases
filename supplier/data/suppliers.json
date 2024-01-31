@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Staples-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "6fe349a9c977c191",
+    "itemList": [
+      "ABANGOFF0001GE"
+    ]
+  },
+  {
+    "name": "Edeka-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "01c0b843ba40f4f3",
+    "itemList": [
+      "EBELGSNA0056EN",
+      "MYEMEVEG0050EN"
+    ]
+  },
+  {
+    "name": "Hipp-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "4f8e7d977e7aba56",
+    "itemList": [
+      "MPAKIBAB0042UN"
+    ]
+  },
+  {
+    "name": "Beauty-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "6f3e392f79afac4e",
+    "itemList": [
+      "MAFGHCOS0028MT"
+    ]
+  },
+  {
+    "name": "Staples-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "045ad434f8db2227",
+    "itemList": [
+      "MUNITOFF0049EN"
+    ]
+  },
+  {
+    "name": "Health-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "f4d4938cabbfe2c4",
+    "itemList": [
+      "ATAJIPER0023UE"
+    ]
+  },
+  {
+    "name": "Edeka-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "2a3abea3253f0cbd",
+    "itemList": [
+      "ABHUTVEG0002GE",
+      "AJAPASNA0008GE"
+    ]
+  },
+  {
+    "name": "Fegro-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "f90c833220465cae",
+    "itemList": [
+      "ECYPRMEA0060EN"
+    ]
+  },
+  {
+    "name": "Edeka-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "9d3fec08de58925f",
+    "itemList": [
+      "MLEBAVEG0038UN",
+      "MSAUDSNA0044UN"
+    ]
+  },
+  {
+    "name": "Wholesale-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "8acad8c7137ed6e9",
+    "itemList": [
+      "MSYRIHOU0046UN"
+    ]
+  },
+  {
+    "name": "WIFA-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "872e8a2b3a265a3d",
+    "itemList": [
+      "APHILBEV0019UE"
+    ]
+  },
+  {
+    "name": "Staples-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "2a74932e3a32b1e7",
+    "itemList": [
+      "ALAOSOFF0013UE"
+    ]
+  },
+  {
+    "name": "Edeka-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "8d4580543e883090",
+    "itemList": [
+      "MEGYPSNA0032MT",
+      "AUZBEVEG0026MT"
+    ]
+  },
+  {
+    "name": "Staples-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "fd3f692946051ed0",
+    "itemList": [
+      "ECZECOFF0061ES"
+    ]
+  },
+  {
+    "name": "Fegro-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "5e55c877b31e223c",
+    "itemList": [
+      "AKYRGMEA0012GE"
+    ]
+  },
+  {
+    "name": "Health-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "803a6cbda501776b",
+    "itemList": [
+      "ECROAPER0059EN"
+    ]
+  },
+  {
+    "name": "Staples-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "7860c392e5a16c9f",
+    "itemList": [
+      "MKUWAOFF0037UN"
+    ]
+  },
+  {
+    "name": "Beauty-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "9d106ecc5379dc65",
+    "itemList": [
+      "AMONGCOS0016UE"
+    ]
+  },
+  {
+    "name": "Beauty-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "6ec8ee075e54a308",
+    "itemList": [
+      "EFINLCOS0064ES"
+    ]
+  },
+  {
+    "name": "Edeka-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "32a4347c1abad41f",
+    "itemList": [
+      "ASINGSNA0020UE",
+      "AMALAVEG0014UE"
+    ]
+  },
+  {
+    "name": "Penny-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "1ddc1bbf4345ff7b",
+    "itemList": [
+      "AVIETFRU0027MT"
+    ]
+  },
+  {
+    "name": "H&M-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "cb65f6ce81b1085b",
+    "itemList": [
+      "MSOMACLO0045UN"
+    ]
+  },
+  {
+    "name": "WIFA-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "ce2e24b642bdf053",
+    "itemList": [
+      "EBELABEV0055EN"
+    ]
+  },
+  {
+    "name": "Rewe-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "4496cbb2ee0184ff",
+    "itemList": [
+      "MALGECER0029MT"
+    ]
+  },
+  {
+    "name": "Hipp-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "7d619593f1392a1f",
+    "itemList": [
+      "MAZERBAB0030MT"
+    ]
+  },
+  {
+    "name": "Rewe-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "4040d3c81190f81d",
+    "itemList": [
+      "MOMANCER0041UN"
+    ]
+  },
+  {
+    "name": "Hipp-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "20f1188db8dfface",
+    "itemList": [
+      "EGEORBAB0066ES"
+    ]
+  },
+  {
+    "name": "H&M-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "ebf5e488926fd5b8",
+    "itemList": [
+      "AKAZACLO0009GE"
+    ]
+  },
+  {
+    "name": "Hipp-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "2b87c306d71e9cfe",
+    "itemList": [
+      "ANEPABAB0018UE"
+    ]
+  },
+  {
+    "name": "Wholesale-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "65a2e97bdfe46cfa",
+    "itemList": [
+      "ANORTHOU0010GE"
+    ]
+  },
+  {
+    "name": "H&M-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "efe372d0307e90d5",
+    "itemList": [
+      "EHUNGCLO0069ES"
+    ]
+  },
+  {
+    "name": "H&M-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "180edf1397f37c18",
+    "itemList": [
+      "ASRI CLO0021UE"
+    ]
+  },
+  {
+    "name": "H&M-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "27de1c5861577001",
+    "itemList": [
+      "MIRANCLO0033MT"
+    ]
+  },
+  {
+    "name": "Wholesale-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "f6ce2a06abd63c93",
+    "itemList": [
+      "EICELHOU0070ES"
+    ]
+  },
+  {
+    "name": "Fegro-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "4623c807674d7dc7",
+    "itemList": [
+      "MTURKMEA0048UN"
+    ]
+  },
+  {
+    "name": "Rewe-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "b6618262940511ac",
+    "itemList": [
+      "ACHINCER0005GE"
+    ]
+  },
+  {
+    "name": "Beauty-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "8c575ccfe9e921c4",
+    "itemList": [
+      "MMOROCOS0040UN"
+    ]
+  },
+  {
+    "name": "Fegro-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "647e89c3a05abc58",
+    "itemList": [
+      "ATHAIMEA0024UE"
+    ]
+  },
+  {
+    "name": "Fegro-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "758b3288391fe74f",
+    "itemList": [
+      "EITALMEA0072ES"
+    ]
+  },
+  {
+    "name": "Hipp-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "9f9202bb042fccbf",
+    "itemList": [
+      "AINDIBAB0006GE"
+    ]
+  },
+  {
+    "name": "Penny-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "8fa320e0b285624a",
+    "itemList": [
+      "EALBAFRU0051EN"
+    ]
+  },
+  {
+    "name": "Health-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "2dc8650be4664ce0",
+    "itemList": [
+      "MISRAPER0035MT"
+    ]
+  },
+  {
+    "name": "Penny-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "5b134a26f167efb4",
+    "itemList": [
+      "ABRUNFRU0003GE"
+    ]
+  },
+  {
+    "name": "Health-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "b6c9e1f9de2f26fb",
+    "itemList": [
+      "MTUNIPER0047UN"
+    ]
+  },
+  {
+    "name": "WIFA-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "1970260cbe8ad868",
+    "itemList": [
+      "AINDOBEV0007GE"
+    ]
+  },
+  {
+    "name": "Penny-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "7cfab7456e76de74",
+    "itemList": [
+      "MLIBYFRU0039UN"
+    ]
+  },
+  {
+    "name": "H&M-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "966518ad19442dbf",
+    "itemList": [
+      "EBOSNCLO0057EN"
+    ]
+  },
+  {
+    "name": "Rewe-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "745e858d48703985",
+    "itemList": [
+      "EFRANCER0065ES"
+    ]
+  },
+  {
+    "name": "WIFA-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "3ceb411cbc3e242a",
+    "itemList": [
+      "MBAHRBEV0031MT"
+    ]
+  },
+  {
+    "name": "Beauty-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "89edae1558586bd8",
+    "itemList": [
+      "ACAMBCOS0004GE"
+    ]
+  },
+  {
+    "name": "Fegro-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "7e0fb2c48b56ebf3",
+    "itemList": [
+      "MJORDMEA0036MT"
+    ]
+  },
+  {
+    "name": "Hipp-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "cf9f54fb0a908ac4",
+    "itemList": [
+      "EAUSTBAB0054EN"
+    ]
+  },
+  {
+    "name": "WIFA-US",
+    "region": "United States of America",
+    "country": "North America",
+    "_key": "eec915fcc76d37ff",
+    "itemList": [
+      "MQATABEV0043UN"
+    ]
+  },
+  {
+    "name": "Edeka-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "96ba86a8f5e9ecde",
+    "itemList": [
+      "EDENMVEG0062ES",
+      "EGREESNA0068ES"
+    ]
+  },
+  {
+    "name": "Wholesale-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "2c28a75cea30a175",
+    "itemList": [
+      "MIRAQHOU0034MT"
+    ]
+  },
+  {
+    "name": "Beauty-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "e274750231742bcf",
+    "itemList": [
+      "EANDOCOS0052EN"
+    ]
+  },
+  {
+    "name": "Rewe-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "6580cda6e9381e21",
+    "itemList": [
+      "EARMECER0053EN"
+    ]
+  },
+  {
+    "name": "Penny-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "c7e0789e97cd2f19",
+    "itemList": [
+      "AMALDFRU0015UE"
+    ]
+  },
+  {
+    "name": "Health-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "e6440fff42f3c284",
+    "itemList": [
+      "EIRELPER0071ES"
+    ]
+  },
+  {
+    "name": "Staples-TUR",
+    "region": "Middle East and North Africa",
+    "country": "Turkey",
+    "_key": "6b3ce46ccf899afb",
+    "itemList": [
+      "ATURKOFF0025MT"
+    ]
+  },
+  {
+    "name": "Rewe-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "e6ee58f1abc6a553",
+    "itemList": [
+      "AMYANCER0017UE"
+    ]
+  },
+  {
+    "name": "Penny-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "1d8ffad58f1e23cd",
+    "itemList": [
+      "EESTOFRU0063ES"
+    ]
+  },
+  {
+    "name": "Health-DE",
+    "region": "Germany",
+    "country": "Europe",
+    "_key": "0c63ee1e435e1b3c",
+    "itemList": [
+      "ASOUTPER0011GE"
+    ]
+  },
+  {
+    "name": "WIFA-ESP",
+    "region": "Europe",
+    "country": "Spain",
+    "_key": "3bf9e358bee40dec",
+    "itemList": [
+      "EGERMBEV0067ES"
+    ]
+  },
+  {
+    "name": "Wholesale-NL",
+    "region": "Europe",
+    "country": "Netherlands",
+    "_key": "a025dcd7b9fce880",
+    "itemList": [
+      "EBULGHOU0058EN"
+    ]
+  },
+  {
+    "name": "Wholesale-UK",
+    "region": "United Kingdom",
+    "country": "Europe",
+    "_key": "03ad5e47d87f1d48",
+    "itemList": [
+      "ATAIWHOU0022UE"
+    ]
+  }
+]

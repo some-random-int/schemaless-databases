@@ -1,0 +1,64 @@
+# build pip package
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = 'TrigDroid'
+version = '1.0.0'
+authors = [{ name = 'Simon Hüsch', email = 'simon.huesch@smail.inf.h-brs.de' }]
+description = 'supplier API of schemaless database project'
+readme = 'README.md'
+requires-python = '>=3.10'
+classifiers = [
+    'Development Status :: 1 - Planning',
+    'Intended Audience :: Science/Research',
+    'Natural Language :: English',
+    'Operating System :: POSIX :: Linux',
+    'Programming Language :: Python :: 3',
+    'Topic :: Scientific/Engineering',
+    'Typing :: Typed',
+]
+
+# autopep8
+[tool.autopep8]
+max_line_length = 120
+
+# pylint
+[tool.pylint]
+disable = 'global-statement'
+
+[tool.pylint.main]
+extension-pkg-allow-list = 'frida'
+jobs = 2
+
+[tool.pylint.design]
+max-args = 10
+max-attributes = 15
+max-branches = 20
+max-locals = 25
+max-public-methods = 40
+max-returns = 10
+max-statements = 75
+
+[tool.pylint.format]
+max-line-length = 150
+
+[tool.pylint.similarities]
+min-similarity-lines = 3
+
+[tool.pylint.string]
+check-quote-consistency = true
+
+[tool.pylint.variables]
+callbacks = ['cb', '_cb', 'callback', '_callback']
+
+[tool.pylint.messages]
+disable = [
+    'missing-module-docstring',
+    'missing-class-docstring',
+    'missing-function-docstring',
+]
+
+[tool.pylint.master]
+init-hook = 'import sys; sys.path.append("src/TrigDroid")'
